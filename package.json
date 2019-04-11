@@ -1,34 +1,35 @@
 {
-  "name": "wkhtmltopdf",
+  "name": "wkhtmltox",
   "version": "0.3.4",
   "description": "A wrapper for the wkhtmltopdf HTML to PDF converter using WebKit",
   "author": {
-    "name": "Devon Govett",
-    "email": "devongovett@gmail.com",
-    "url": "http://badassjs.com/"
+    "name": "Patrick Kuen",
+    "email": "p.kuen@averi.at",
+    "url": "http://averi.at.com/"
   },
   "engines": {
     "node": ">=0.6"
   },
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "dependencies": {
-    "is-stream": "^1.0.1",
-    "slang": ">=0.2"
+    "is-absolute-url": "^3.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devongovett/node-wkhtmltopdf.git"
+    "url": "https://github.com/patcher56/wkhtmltox.git"
   },
   "scripts": {
+    "build": "tsc",
     "test": "jasmine"
   },
-  "bugs": "http://github.com/devongovett/node-wkhtmltopdf/issues",
+  "bugs": "http://github.com/patcher56/wkhtmltox/issues",
   "devDependencies": {
-    "express": "^4.13.3",
-    "jasmine": "^2.3.2",
-    "mkdirp": "^0.5.1",
-    "rimraf": "^2.4.3"
+    "@types/node": "^11.13.4",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.3"
   },
   "files": [
-    "index.js"
+    "build/index.js"
   ]
 }

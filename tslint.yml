@@ -1,0 +1,40 @@
+extends: tslint:recommended
+rules:
+  semicolon:
+    - true
+    - never
+  trailing-comma:
+    - true
+    - multiline: never
+      singleline: never
+  quotemark:
+    - true
+    - single
+    - avoid-escape
+  object-literal-sort-keys:
+    - false
+  ordered-imports:
+    - false
+  prefer-for-of:
+    - false
+  max-line-length:
+    - false
+  arrow-parens:
+    - true
+    - ban-single-arg-parens
+  interface-name:
+    - false
+  only-arrow-functions:
+    - false
+  whitespace:
+    - false
+  align:
+    - false
+  array-type:
+    - true
+    - array
+  object-literal-shorthand:
+    - false
+  no-console:
+    - true
+    - log
