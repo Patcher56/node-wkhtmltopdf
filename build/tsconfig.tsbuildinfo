@@ -933,6 +933,207 @@
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/async_hooks.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/buffer.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/child_process.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/cluster.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/child_process.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/console.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/constants.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/crypto.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dgram.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/domain.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/fs.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http2.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/fs.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tls.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/https.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tls.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/inspector.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/module.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/os.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/path.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/perf_hooks.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/async_hooks.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/process.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/punycode.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/querystring.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/readline.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/repl.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/readline.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/vm.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/string_decoder.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/timers.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tls.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/crypto.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/trace_events.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tty.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/querystring.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/v8.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/vm.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/worker_threads.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/vm.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/zlib.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/base.d.ts": [
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/globals.d.ts",
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/assert.d.ts",
@@ -976,220 +1177,19 @@
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/zlib.d.ts",
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/index.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/base.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/globals.d.ts",
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts": [
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/async_hooks.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/perf_hooks.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/async_hooks.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/buffer.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/child_process.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/cluster.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/child_process.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/console.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/constants.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/crypto.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tls.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/crypto.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/https.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tls.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http2.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/fs.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tls.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dgram.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/dns.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/tty.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/http.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/net.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/domain.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/worker_threads.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/vm.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/zlib.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/v8.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/readline.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/repl.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/readline.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/vm.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/fs.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/stream.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/inspector.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/events.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/module.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/os.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/path.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/process.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/punycode.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/querystring.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/url.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/querystring.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/string_decoder.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/timers.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/trace_events.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/globals.d.ts": [
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/globals.d.ts",
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts": [
+      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/base.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts",
+        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/globals.d.ts",
         "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts"
-      ],
-      "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/vm.d.ts": [
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/util.d.ts",
-        "/home/patrick/dev/packages/wkhtmltox/node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [

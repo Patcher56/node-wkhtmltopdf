@@ -30,6 +30,6 @@
     "typescript": "^3.4.3"
   },
   "files": [
-    "build/index.js"
+    "build"
   ]
 }
